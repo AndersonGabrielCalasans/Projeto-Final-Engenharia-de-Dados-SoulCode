@@ -20,10 +20,10 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 Nosso **squad** é composto por:
 
 <div align="center">
-  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/Design_sem_nome_(1).png"/>
-  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/3.png"/>
-  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/2.png"/>
-  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/4.png"/>
+  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/Design_sem_nome_(1).png"/>
+  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/3.png"/>
+  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/2.png"/>
+  <img height="160em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/4.png"/>
 </div>
 
 ## ⭐ **Diretrizes:**
