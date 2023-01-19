@@ -19,13 +19,12 @@ A **Mindful Data,** empresa de consultoria da área de engenharia de dados, fund
 
 Nosso **squad** é composto por:
 
-![3.png](Mindful%20Data%20Consultoria%20d495964059c34acb9c8fe3d21dbb5cf6/3.png)
-
-![1.png](Mindful%20Data%20Consultoria%20d495964059c34acb9c8fe3d21dbb5cf6/Design_sem_nome_(1).png)
-
-![2.png](Mindful%20Data%20Consultoria%20d495964059c34acb9c8fe3d21dbb5cf6/2.png)
-
-![4.png](Mindful%20Data%20Consultoria%20d495964059c34acb9c8fe3d21dbb5cf6/4.png)
+<div align="center">
+  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/Design_sem_nome_(1).png"/>
+  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/3.png"/>
+  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/2.png"/>
+  <img height="260em" src="https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/4.png"/>
+</div>
 
 ## ⭐ **Diretrizes:**
 
@@ -72,7 +71,7 @@ Essa etapa está contida aqui:
 
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
-![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](Mindful%20Data%20Consultoria%20d495964059c34acb9c8fe3d21dbb5cf6/WhatsApp_Image_2023-01-16_at_17.01.02.jpeg)
+![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/WhatsApp_Image_2023-01-16_at_17.01.02.jpeg)
 
 ### 📄**Definição das bases de dados**
 
