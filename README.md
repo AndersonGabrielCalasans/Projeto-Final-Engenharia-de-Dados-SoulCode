@@ -71,7 +71,7 @@ Essa etapa está contida aqui:
 
 Todo nosso processo está descrito no modelo abaixo, passando por todos os tópicos solicitados nas diretrizes do projeto.
 
-![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/WhatsApp_Image_2023-01-16_at_17.01.02.jpeg)
+![WhatsApp Image 2023-01-16 at 17.01.02.jpeg](https://github.com/AndersonGabrielCalasans/Projeto-Final-Engenharia-de-Dados-SoulCode/blob/main/Imagens/workflow-pf.jpeg)
 
 ### 📄**Definição das bases de dados**
 
