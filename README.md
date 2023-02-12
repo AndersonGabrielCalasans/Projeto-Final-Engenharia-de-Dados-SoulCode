@@ -122,7 +122,7 @@ Após realizar todos os tratamentos necessários e salvar os dados nos Data Lake
 ### **Dashboard Looker Studio**
 
 O DashBoard interativo foi criado com o Looker Studio e está disponível no link abaixo:
-[Dashboard-Projeto Final](https://datastudio.google.com/reporting/2ecaecd3-dde9-4171-8a27-c5c589a6daed)
+[Dashboard-Projeto Final](https://lookerstudio.google.com/reporting/54c9a106-e744-4203-bacf-e35d5be079a7)
 
 ## **Apresentação**
 
